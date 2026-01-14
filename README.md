@@ -9,6 +9,10 @@ Pinned project repositories below are my main completed projects:
 - **Polygon Triangulation** – implementation and analysis of polygon triangulation algorithms  
   (Delaunay triangulation, monotone polygon)
 
+Moreover, here are my ongoing projects:
+- **MATLAB-like Language Compiler / Interpreter** – academic compiler project covering lexical analysis, parsing, semantic analysis, and interpretation of a custom matrix-oriented language
+- **Dart Counter App** – mobile application for managing dart matches, with planned **computer vision–based throw detection and scoring**
+
 ---
 
 ## 🧠 Languages
