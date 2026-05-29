@@ -6,9 +6,9 @@ I’m mainly interested in **algorithms, problem solving, machine learning, and 
 Pinned project repositories below are my main completed projects:
 - **Darwin Simulator** – simulation application with a **JavaFX frontend** and **Java backend**
 - **University Database** – relational university database implemented in **SQL Server**
-- **Polygon Triangulation** – implementation and analysis of polygon triangulation algorithms
+- **Polygon Triangulation** – implementation and analysis of polygon triangulation algorithms (Delaunay triangulation, monotone polygon)
 - **MATLAB-like Language Compiler / Interpreter** – academic compiler project covering lexical analysis, parsing, semantic analysis, and interpretation of a custom matrix-oriented language
-  (Delaunay triangulation, monotone polygon)
+  
 
 Moreover, here are my ongoing projects:
 - **AeroCore-STM32** – An open-source quadcopter flight controller and embedded software system built from scratch on STM32 to achieve stable autonomous flight.
