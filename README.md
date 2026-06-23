@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is **Mateusz**, I am a **third-year Computer Science student at AGH University of Kraków**.  
-I’m mainly interested in **algorithms, problem solving, machine learning, and mathematics**. Outside of university, I work as a **mathematics and programming tutor**, helping students prepare for exams and improve their skills.
+I’m mainly interested in **algorithms (mostly graph and geometric), problem solving, machine learning, and mathematics**. Outside of university, I work as a **mathematics and programming tutor**, helping students prepare for exams and improve their skills.
 
 Pinned project repositories below are my main completed projects:
 - **Darwin Simulator** – simulation application with a **JavaFX frontend** and **Java backend**
