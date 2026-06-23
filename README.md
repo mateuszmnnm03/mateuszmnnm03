@@ -23,6 +23,7 @@ Moreover, here are my ongoing projects:
 - C++
 - Rust
 - Erlang / Elixir
+- C#
 
 ---
 
